@@ -1,1 +1,1 @@
-# Tr-tu-nh-n-t-o
+# Các bài tập code môn "Nhập môn trí tuệ nhân tạo"
