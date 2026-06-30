@@ -36,6 +36,78 @@ Kho lưu trữ này chứa toàn bộ các bài tập thực hành theo tuần (
 
 ## 🛠️ Chi Tiết Các Thuật Toán Được Tích Hợp
 
+### 1. Thuật toán tìm kiếm mù thông tin
+
+Thuật toán BFS cách 1
+![Thuật toán BFS cách 1](assets/BFS.gif)
+
+Thuật toán BFS cách 2
+![Thuật toán BFS cách 2](assets/BFS2.gif)
+
+Thuật toán DFS cách 1
+![Thuật toán DFS cách 1](assets/DFS.gif)
+
+Thuật toán DFS cách 2
+![Thuật toán DFS cách 2](assets/DFS2.gif)
+
+Thuật toán DLS (Limit = 15)
+![Thuật toán DLS](assets/DLS.gif)
+
+Thuật toán UCS
+![Thuật toán UCS](assets/UCS.gif)
+
+### 2. Thuật toán tìm kiếm có thông tin
+
+Thuật toán Greedy Search
+![Thuật toán Greedy](assets/Greedy.gif)
+
+Thuật toán A*
+![Thuật toán A Star](assets/AStar.gif)
+
+Thuật toán IDA*
+![Thuật toán IDA](assets/IDA.gif)
+
+### 3. Thuật toán tìm kiếm cục bộ
+
+Thuật toán Simple Hill Climbing
+![Thuật toán HC](assets/SimpleHC.gif)
+
+Thuật toán Steepest Hill Climbing
+![Thuật toán Steepest HC](assets/SteepestHC.gif)
+
+Thuật toán Stochastic Hill Climbing
+![Thuật toán Stochastic HC](assets/StochasticHC.gif)
+
+Thuật toán Random Restart Hill Climbing
+![Thuật toán Random Restart HC](assets/RandomRestartHC.gif)
+
+Thuật toán Simulated Annealing
+![Thuật toán SA](assets/SA.gif)
+
+Thuật toán Local Beam Search (k=2)
+![Thuật toán Beam Search](assets/LocalBeam.gif)
+
+### 4. Thuật toán tìm kiếm trong môi trường phức tạp
+
+Thuật toán No Start
+![Thuật toán No Start](assets/NoStart.gif)
+
+Thuật toán No Goal
+![Thuật toán No Goal](assets/NoGoal.gif)
+
+### 5. Thuật toán tìm kiếm thảo mãn ràng buộc
+
+Các thuật toán giải bài toán tô màu bản đồ Việt Nam
+![Thuật toán CSP](assets/CSP.gif)
+
+### 6. Thuật toán tìm kiếm đối kháng
+
+Thuật toán Minimax
+![Thuật toán Minimax](assets/Minimax.gif)
+
+Thuật toán Alpha Beta
+![Thuật toán Alpha Beta](assets/AlphaBeta.gif)
+
 ---
 
 ## 🚀 Hướng Dẫn Chạy Chương Trình
